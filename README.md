@@ -25,7 +25,7 @@ Hello, I Am Ganesh Tiwari!<br>
     <h2>🚀 About Me</h2>
     <p>I'm a Engineering Student specializing in Computer Science & Engineering. I enjoy Learning New Technologies.</p>
 </div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ganesh-tiwari-70b097275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/darshanpc/](https://www.linkedin.com/in/ganesh-tiwari-70b097275/)" height="30" width="40" /></a>
 <br><a href="https://www.instagram.com/dark_soul_0409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dark_soul_0409/" height="30" width="40" /></a><br>
@@ -47,6 +47,7 @@ Hello, I Am Ganesh Tiwari!<br>
 <br>
 <div align="left">
 <p>
+<br>
 <br>
 - 👋 Hi, I’m @Ganesh Tiwari<br>
 - 👀 I’m interested in Cding<br>
