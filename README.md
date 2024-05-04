@@ -46,7 +46,7 @@ Hello, I Am Ganesh Tiwari!<br>
 </div>
 <br>
 <br>
-<div align="center">
+<div align="left">
 <p>
 - 👋 Hi, I’m @Ganesh Tiwari<br>
 - 👀 I’m interested in Cding<br>
