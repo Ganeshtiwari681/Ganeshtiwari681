@@ -42,9 +42,8 @@
 <!--<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />-->
 <img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 </div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <!-- Add more badges similarly -->
+<div>
+    
 </div>
 
 
