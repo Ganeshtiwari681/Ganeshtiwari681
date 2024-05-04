@@ -33,7 +33,6 @@ Hello, I Am Ganesh Tiwari!<br>
 <a href="https://www.geeksforgeeks.org/user/mpgiganesht9ncn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mpgiganesht9ncn/" height="30" width="40" /></a>
 </p>
 <br>
-<br>
 <div align="center">
     <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -44,7 +43,6 @@ Hello, I Am Ganesh Tiwari!<br>
 <!--<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />-->
 <img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 </div>
-<br>
 <br>
 <div align="left">
 <p>
