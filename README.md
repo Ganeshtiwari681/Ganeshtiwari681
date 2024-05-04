@@ -42,10 +42,7 @@
 <!--<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />-->
 <img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 </div>
-<div>
-    
-
-
+<div align="center">
 <p>
 - 👋 Hi, I’m @Ganesh Tiwari
 - 👀 I’m interested in Cding
