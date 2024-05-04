@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Ganesh Tiwari];This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -23,7 +23,7 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>I'm a Engineering Student specializing in Computer Science & Engineering. I enjoy Learning New Technologies.</p>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,7 @@
     
 
 
-
+<p>
 - 👋 Hi, I’m @Ganesh Tiwari
 - 👀 I’m interested in Cding
 - 🌱 I’m currently learning Data Science
@@ -54,6 +54,7 @@
 - 📫 How to reach me ...
 - 😄 Interested: Coding,Learning,Chess,Cricket
 - ⚡ Fun fact: 
+    </p>
 </div>
 <!---
 Ganeshtiwari681/Ganeshtiwari681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
