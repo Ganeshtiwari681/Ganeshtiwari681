@@ -44,7 +44,7 @@
 </div>
 <div>
     
-</div>
+
 
 
 - 👋 Hi, I’m @Ganesh Tiwari
@@ -54,7 +54,7 @@
 - 📫 How to reach me ...
 - 😄 Interested: Coding,Learning,Chess,Cricket
 - ⚡ Fun fact: 
-
+</div>
 <!---
 Ganeshtiwari681/Ganeshtiwari681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
