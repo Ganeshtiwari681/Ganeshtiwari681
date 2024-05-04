@@ -27,10 +27,9 @@ Hello, I Am Ganesh Tiwari!<br>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-    <br>
-<a href="https://www.linkedin.com/in/ganesh-tiwari-70b097275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/darshanpc/](https://www.linkedin.com/in/ganesh-tiwari-70b097275/)" height="30" width="40" /></a>
-<br><a href="https://www.instagram.com/dark_soul_0409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dark_soul_0409/" height="30" width="40" /></a><br>
-<br><a href="https://leetcode.com/u/mpgiganeshtiwar2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mpgiganeshtiwar2/" height="30" width="40" /></a><br>
+<a href="https://www.linkedin.com/in/ganesh-tiwari-70b097275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/darshanpc/](https://www.linkedin.com/in/ganesh-tiwari-70b097275/)" height="30" width="40" /></a><br>
+<br><a href="https://www.instagram.com/dark_soul_0409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dark_soul_0409/" height="30" width="40" /></a><br><br>
+    <a href="https://leetcode.com/u/mpgiganeshtiwar2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mpgiganeshtiwar2/" height="30" width="40" /></a><br>
 <br><a href="https://www.geeksforgeeks.org/user/mpgiganesht9ncn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mpgiganesht9ncn/" height="30" width="40" /></a><br>
  <br><a href="https://www.hackerrank.com/profile/mpgiganeshtiwar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="https://www.hackerrank.com/profile/mpgiganeshtiwar2" height="30" width="40" /></a><br>
 </p>
