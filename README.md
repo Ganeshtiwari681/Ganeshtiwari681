@@ -4,8 +4,10 @@ Hello, I Am Ganesh Tiwari!<br>
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Ganesh Tiwari];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Turning+coffee+into+code.;Pushing+Boundaries+and+Pushing+Code.;I+can+Speak+Fluent+in+Python;Let's+Connect+and+Build+Future.)](https://git.io/typing-svg)
+
+</h1>
 </div>
 
 <hr/>
