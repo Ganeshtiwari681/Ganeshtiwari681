@@ -14,7 +14,7 @@ Hello, I Am Ganesh Tiwari!<br>
 
 <br>
 
-### I am a Engineering Student
+### I am an Engineering Student
 
 </br> 
 
@@ -25,7 +25,7 @@ Hello, I Am Ganesh Tiwari!<br>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Engineering Student specializing in Computer Science & Engineering. I enjoy Learning New Technologies.</p>
+    <p>I'm an Engineering Student specializing in Computer Science & Engineering. I enjoy Learning New Technologies.</p>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
