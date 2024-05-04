@@ -1,5 +1,5 @@
 <h1 align="center">
-नमस्ते (Namaste), I Am Ganesh Tiwari!<br>
+Hello, I Am Ganesh Tiwari!<br>
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <br>
 
-### I am a Student
+### I am a Engineering Student
 
 </br> 
 
@@ -42,6 +42,8 @@
 <!--<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />-->
 <img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 </div>
+<br>
+<br>
 <div align="center">
 <p>
 - 👋 Hi, I’m @Ganesh Tiwari
