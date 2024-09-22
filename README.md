@@ -5,7 +5,7 @@ Hello, I Am Ganesh Tiwari!<br>
 <div align="center">
     <h1>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Turning+coffee+into+code.;Pushing+Boundaries+and+Pushing+Code.;I+can+Speak+Fluent+in+Python;Let's+Connect+and+Build+Future.)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Turning+idea+into+code.;Pushing+Boundaries+and+Pushing+Code.;I+can+code+Fluent+in+Python+and+C++;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
 
 </h1>
 </div>
@@ -14,7 +14,7 @@ Hello, I Am Ganesh Tiwari!<br>
 
 <br>
 
-### I am an Engineering Student
+### I am an Engineering Student and Competitive Coder
 
 </br> 
 
@@ -54,7 +54,7 @@ Hello, I Am Ganesh Tiwari!<br>
 <br>
 <br>
 - 👋 Hi, I’m @Ganesh Tiwari<br>
-- 👀 I’m interested in Cding<br>
+- 👀 I’m interested in Coding<br>
 - 🌱 I’m currently learning Data Science<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...<br>
