@@ -5,7 +5,7 @@ Hello, I Am Ganesh Tiwari! <br>
 <div align="center">
     <h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Ganesh+Tiwari;Turning+idea+into+code.;Pushing+Boundaries+and+Pushing+Code.;I+can+code+Fluent+in+Python+and+Cpp;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solve+Problem.;I+can+code+Fluent+in+Python+and+Cpp;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
 
 </h1>
 </div>
@@ -14,7 +14,7 @@ Hello, I Am Ganesh Tiwari! <br>
 
 <br>
 
-### I am an Engineering Student and Competitive Coder
+### “Aspiring software engineer with a solid background in programming languages and a genuine interest in creating efficient, user-friendly applications. I am seeking an entry-level role where I can apply my coding skills and contribute to innovative software solutions".
 
 </br> 
 
@@ -25,7 +25,7 @@ Hello, I Am Ganesh Tiwari! <br>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm an Engineering Student specializing in Computer Science & Engineering. I enjoy Learning New Technologies.</p>
+    <p>“Aspiring software engineer with a solid background in programming languages and a genuine interest in creating efficient, user-friendly applications. I am seeking an entry-level role where I can apply my coding skills and contribute to innovative software solutions".</p>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
