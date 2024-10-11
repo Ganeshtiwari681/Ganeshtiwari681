@@ -25,7 +25,7 @@ Hello, I Am Ganesh Tiwari! <br>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>“Aspiring software engineer with a solid background in programming languages and a genuine interest in creating efficient, user-friendly applications. I am seeking an entry-level role where I can apply my coding skills and contribute to innovative software solutions".</p>
+    <p>“Pre-final year computer science graduate with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company”.</p>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
@@ -67,7 +67,7 @@ Hello, I Am Ganesh Tiwari! <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
 
 </a>
-<!---
+-
 Ganeshtiwari681/Ganeshtiwari681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-
