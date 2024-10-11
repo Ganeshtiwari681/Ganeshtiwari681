@@ -67,7 +67,7 @@ Hello, I Am Ganesh Tiwari! <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
 
 </a>
--
+<!-- -
 Ganeshtiwari681/Ganeshtiwari681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--
+- -->
