@@ -106,3 +106,12 @@
   - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ganesh-tiwari-70b097275/)
   - 😄 Interests: Coding, Learning, Chess, Cricket
   - ⚡ Fun fact: I enjoy solving puzzles and challenges!
+
+
+<div align="center">
+<h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+</h1>
+</div>
