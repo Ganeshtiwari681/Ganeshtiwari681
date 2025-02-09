@@ -67,11 +67,14 @@
       <a href="https://www.geeksforgeeks.org/user/mpgiganesht9ncn/" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" />
       </a>
-      <a href="https://github.com/Ganeshtiwari681" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/git-hub.svg" alt="Geeks for Geeks" height="30" width="40" />
-      </a>
+      <a href="https://www.hackerrank.com/profile/mpgiganeshtiwar2" target="_blank">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="30" width="100" />
+    </a>
+    <a href="https://github.com/ganeshtiwari681" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" height="30" width="100" />
+    </a>
   </div>
-- **Email**: mpgiganeshtiwari0409@gmail.com  
+- **Email**: mpgiganeshtiwari0409@gmail.com  <br>
 - **Phone**: +918887243523
 
 ---
