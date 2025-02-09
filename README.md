@@ -20,6 +20,7 @@
       <img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
       <img align="left" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
   </div> 
+  <br>
 - **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).
 - **Data Visualization**: Power BI. 
 - **Databases**: MySQL, MongoDB.
