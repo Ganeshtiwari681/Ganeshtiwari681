@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Ganesh Tiwari!  
+<div align="center">
+    <h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;+I+am+a+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solving+Problems.;Fluent+in+Cpp+,+Python+and+Java;Let%27s+Connect+and+Build+Career.)](https://git.io/typing-svg)
+
+</h1>
+</div>
+
+
+<h1 align="center">Hi 👋, I'm Ganesh Tiwari</h1>
 
 ### 🚗Software Engineer |🚀 Data Analyst | 📊 Turning Data into Insights | 💻 Pre-final year B.Tech (CSE)   
 ---
