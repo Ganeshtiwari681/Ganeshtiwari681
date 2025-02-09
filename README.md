@@ -20,7 +20,6 @@
       <img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
       <img align="left" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
   </div> 
----
 
 ## Tools
 - **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).
@@ -77,8 +76,9 @@
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" height="30" width="100" />
     </a>
   </div>
+---
 ##
-- **Email**: mpgiganeshtiwari0409@gmail.com  <br>
+- **Email**: mpgiganeshtiwari0409@gmail.com 
 - **Phone**: +918887243523
 
 ---
