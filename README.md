@@ -91,7 +91,8 @@
 
   
 ---
-##
+
+- 📄 Resume [Click_Me](https://drive.google.com/file/d/1skNPCgVpXoeNs5dL8NaITBO0NqH26pJg/view?usp=drivesdk)
 - **Email**: mpgiganeshtiwari0409@gmail.com 
 - **Phone**: +918887243523
 
