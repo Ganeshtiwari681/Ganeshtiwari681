@@ -2,7 +2,7 @@
 
 ### 🚗Software Engineer |🚀 Data Analyst | 📊 Turning Data into Insights | 💻 Pre-final year B.Tech (CSE)   
 
-<div align="center"> <p> <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" /> </p> </div> <div align="center"> <h2>🚀 About Me</h2>
+<div align="left"> <p> <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" /> </p> </div> <div align="center"> <h2>🚀 About Me</h2>
   > “Pre-final year computer science graduate with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company
 
 
@@ -80,5 +80,11 @@
 
 ---
 
-### 🌟 Fun Fact  
-I believe every dataset tells a story waiting to be uncovered. Let’s connect and explore the power of data together!  
+### 🌟 Interests
+  - 👋 Hi, I’m Ganesh Tiwari
+  - 👀 I’m interested in Coding
+  - 🌱 I’m currently learning Data Science
+  - 💞️ I’m looking to collaborate on exciting projects
+  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ganesh-tiwari-70b097275/)
+  - 😄 Interests: Coding, Learning, Chess, Cricket
+  - ⚡ Fun fact: I enjoy solving puzzles and challenges!
