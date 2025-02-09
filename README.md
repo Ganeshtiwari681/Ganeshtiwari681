@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ganesh Tiwari!  
 
 ### 🚗Software Engineer |🚀 Data Analyst | 📊 Turning Data into Insights | 💻 Pre-final year B.Tech (CSE)   
+---
 
 <div align="left"> <p> <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" /> </p> </div> <div align="center"> <h2>🚀 About Me</h2>
   > “Pre-final year computer science graduate with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company
@@ -10,8 +11,7 @@
 
 ## 🛠️ Skills & Tools  
 
-### Skills
-  <div align="center">
+  <div align="left">
       <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
       <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
       <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -21,6 +21,7 @@
       <img align="left" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
   </div> 
   <br>
+  
 - **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).
 - **Data Visualization**: Power BI. 
 - **Databases**: MySQL, MongoDB.
@@ -80,7 +81,7 @@
 
 ---
 
-### 🌟 Interests
+## 🌟 Interests
   - 👋 Hi, I’m Ganesh Tiwari
   - 👀 I’m interested in Coding
   - 🌱 I’m currently learning Data Science
