@@ -21,7 +21,7 @@
       <img align="left" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
   </div> 
   <br>
-  
+--
 - **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).
 - **Data Visualization**: Power BI. 
 - **Databases**: MySQL, MongoDB.
