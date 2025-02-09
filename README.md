@@ -76,6 +76,7 @@
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" height="30" width="100" />
     </a>
   </div>
+--
 - **Email**: mpgiganeshtiwari0409@gmail.com  <br>
 - **Phone**: +918887243523
 
