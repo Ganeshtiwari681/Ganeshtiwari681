@@ -108,11 +108,11 @@
   - ⚡ Fun fact: I enjoy solving puzzles and challenges!
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baljender-singh-bamrah&show_icons=true&locale=en&layout=compact" alt="baljender-singh-bamrah" /> </p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshtiwari681 &show_icons=true&locale=en&layout=compact" alt="Ganesh-Tiwari" /> </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baljender-singh-bamrah&show_icons=true&locale=en" alt="baljender-singh-bamrah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpgiganeshtiwar2&show_icons=true&locale=en" alt="Ganesh-Tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baljender-singh-bamrah&" alt="baljender-singh-bamrah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baljender-singh-bamrah&" alt="Ganesh-Tiwari" /></p>
 
 <br><br>
 
