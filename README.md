@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
     <h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;+I+am+a+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solving+Problems.;Fluent+in+Cpp+,+Python+and+Java;Let%27s+Connect+and+Build+Career.)](https://git.io/typing-svg)
@@ -108,13 +108,6 @@
   - ⚡ Fun fact: I enjoy solving puzzles and challenges!
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshtiwari681 &show_icons=true&locale=en&layout=compact" alt="Ganesh-Tiwari" /> </p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpgiganeshtiwar2&show_icons=true&locale=en" alt="Ganesh-Tiwari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baljender-singh-bamrah&" alt="Ganesh-Tiwari" /></p>
-
-<br><br>
 
 <div align="center">
 <h1>
