@@ -21,7 +21,7 @@
       <img align="left" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
   </div> 
   <br>
----
+##
 - **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn).
 - **Data Visualization**: Power BI. 
 - **Databases**: MySQL, MongoDB.
@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" height="30" width="100" />
     </a>
   </div>
----
+##
 - **Email**: mpgiganeshtiwari0409@gmail.com  <br>
 - **Phone**: +918887243523
 
