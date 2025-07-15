@@ -13,7 +13,7 @@
 ---
 
 <div align="left"> <p> <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" /> </p> </div> <div align="center"> <h2>🚀 About Me</h2>
-  > “Pre-final year computer science graduate with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company
+“Pre-final year computer science graduate with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company
 
 
 ---
@@ -43,12 +43,17 @@
 
 ## 🌟 Recent Projects  
 
+### 🚗 Whatsapp Automation System
+- Built an automated WhatsApp messaging tool using Python and Twilio, improving customer support
+  workflows by enabling scheduled communication using Python sched and threading libraries
+- Implemented scheduling functionality to send messages at a specific time using Python's scheduling 
+  libraries.
+
 ### 🚗 OLA Data Analysis Project  
 - Conducted end-to-end analysis on a dataset of 100,000+ rows.  
 - Tools: Excel, SQL, Power BI.  
 - Created interactive dashboards to analyze ride trends, revenue, and cancellations.  
  
-
 ---
 
 ## 📚 Education  
@@ -57,13 +62,18 @@
 *Maharana Institute of Professional Studies*  
 *Graduated in 2026*  
 
+**Intermediate in PCM**  
+*CBSE BOARD*  
+*Passed in 2022*  
+
 ---
 
 ## 📈 Certifications  
 
 - **Filpkard GRID 6.0**  
 - **Python and Problem solving (basic) By Hackerrank**  
-- **Codecrafter 2025**  
+- **Codecrafter 2025**
+- ** Selenium
 
 ---
 
@@ -92,7 +102,7 @@
   
 ---
 
-- 📄 Resume [Click_Me](https://drive.google.com/file/d/1skNPCgVpXoeNs5dL8NaITBO0NqH26pJg/view?usp=drivesdk)
+- 📄 Resume [Click_Me](https://drive.google.com/file/d/1_dWfLoeBZUt4Gr8LMWUVF9AGRHhQZx4T/view?usp=drivesdk)
 - **Email**: mpgiganeshtiwari0409@gmail.com 
 - **Phone**: +918887243523
 
