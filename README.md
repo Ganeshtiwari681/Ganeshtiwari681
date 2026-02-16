@@ -3,7 +3,7 @@
 # 👨‍💻 Ganesh Tiwari  
 ### Backend-Focused Software Engineer | 1000+ DSA Problems | System Design Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jersey+10&size=32&pause=1000&center=true&width=700&lines=Backend+Engineer+who+loves+Clean+Architecture;1000%2B+DSA+Problems+Solved;Building+Scalable+Systems+with+Django;JWT+%7C+REST+APIs+%7C+SQL+Optimization;Future+FAANG+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jersey+10&size=32&pause=1000&center=true&width=750&lines=Backend+Engineer+who+loves+Clean+Architecture;1000%2B+DSA+Problems+Solved;Scalable+System+Builder;JWT+%7C+REST+APIs+%7C+SQL+Optimization;Future+FAANG+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,13 +11,12 @@
 
 ## 🚀 About Me
 
-Backend-focused Software Engineer passionate about scalable systems and algorithmic problem solving.
+💡 Backend-focused Software Engineer passionate about building scalable backend systems and solving complex algorithmic problems.
 
-- 🔥 **1000+ LeetCode problems solved** (Rating: 1660)
+- 🔥 1000+ LeetCode problems solved (Rating: 1660)
 - 🥇 GFG College Rank 1 (800+ Problems)
-- 🧠 Strong in DSA, OOPs, OS, DBMS, CN
 - 🔐 Built secure JWT-based REST APIs
-- ⚡ Backend + System Design Enthusiast
+- ⚡ Strong in DSA, OOPs, OS, DBMS, CN
 
 ---
 
@@ -35,7 +34,7 @@ Backend-focused Software Engineer passionate about scalable systems and algorith
 
 ---
 
-# 🔥 Contribution Graph (Animated)
+# 🔥 Contribution Graph
 
 <div align="center">
 
@@ -53,11 +52,31 @@ Backend-focused Software Engineer passionate about scalable systems and algorith
 
 </div>
 
-*(Optional: I can help you enable auto GitHub Action for this)*
+---
+
+# 🧠 Competitive Programming Dashboard
+
+<div align="center">
+
+<a href="https://leetcode.com/u/mpgiganeshtiwar2/">
+<img src="https://img.shields.io/badge/LeetCode-1000%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.geeksforgeeks.org/profile/mpgiganesht9ncn">
+<img src="https://img.shields.io/badge/GFG-800%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/mpgiganeshtiwar2?theme=dark&ext=heatmap"/>
+
+</div>
 
 ---
 
-# 🎯 Tech Stack (Animated Icons)
+# 🎯 Tech Stack
 
 <div align="center">
 
@@ -74,19 +93,6 @@ Backend-focused Software Engineer passionate about scalable systems and algorith
 
 ---
 
-# 🧠 Competitive Programming Dashboard
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/mpgiganeshtiwar2?theme=dark&ext=heatmap"/>
-
-</div>
-
-🔗 LeetCode:  
-https://leetcode.com/u/mpgiganeshtiwar2/
-
----
-
 # 🚀 Featured Projects
 
 ## 🔹 PostX – Full Stack Social Platform
@@ -98,12 +104,12 @@ https://leetcode.com/u/mpgiganeshtiwar2/
 ## 🔹 Song Recommendation System
 - Flask backend
 - Collaborative filtering
-- Deep learning optimization
+- Deep learning integration
 
 ## 🔹 OLA Market Business Analysis
-- 103K+ data records analyzed
+- 103K+ data entries analyzed
 - 30% query optimization
-- Power BI dashboards
+- Interactive Power BI dashboards
 
 ---
 
@@ -132,13 +138,15 @@ https://leetcode.com/u/mpgiganeshtiwar2/
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/mpgiganesht9ncn">
+<img src="https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
 <a href="https://github.com/Ganeshtiwari681">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
-
----
 
 ---
 
