@@ -81,13 +81,13 @@
 <div align="center">
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript"/>
 
 ### 🌐 Backend & Frontend
-<img src="https://skillicons.dev/icons?i=django,react,html,css"/>
+<img src="https://skillicons.dev/icons?i=django,flask,react,html,css"/>
 
 ### 🗄 Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,powerBI"/>
 
 </div>
 
@@ -95,21 +95,94 @@
 
 # 🚀 Featured Projects
 
-## 🔹 PostX – Full Stack Social Platform
-- Django REST backend
-- JWT Authentication
-- Role-based authorization
-- Scalable API architecture
+<div align="center">
 
-## 🔹 Song Recommendation System
-- Flask backend
-- Collaborative filtering
-- Deep learning integration
+## 🔹 Personal Portfolio Website  
+**Tech Stack:** React.js, Vite, Tailwind CSS, Framer Motion  
 
-## 🔹 OLA Market Business Analysis
-- 103K+ data entries analyzed
-- 30% query optimization
-- Interactive Power BI dashboards
+• Designed a modern, responsive developer portfolio  
+• Implemented smooth animations and dark-mode UI  
+• Optimized performance and SEO  
+• Showcases projects with architecture explanations  
+
+<br>
+
+<a href="https://ganeshtiwari681/github.io">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ganeshtiwari681/Ganeshtiwari681.github.io">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🔹 Crypto Connect  
+**Tech Stack:** React.js, Django REST Framework, PostgreSQL  
+
+• Built a secure crypto portfolio tracking platform  
+• Implemented JWT-based authentication  
+• Integrated real-time crypto price APIs  
+• Designed scalable RESTful backend architecture  
+• Implemented protected routes and secure user dashboards  
+
+<br>
+
+<a href="https://cryptoconnect-omega.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ganeshtiwari681/Crypto_Connect_HackIndia">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🔹 PostX – Social Media Backend System  
+**Tech Stack:** React, Django, DRF  
+
+• Developed scalable backend APIs  
+• Implemented JWT authentication & role-based access  
+• Designed efficient database schema  
+• Handled media uploads and user workflows  
+
+<br>
+
+<a href="https://github.com/Ganeshtiwari681/Social-Network-PostX">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🔹 Song Recommendation System  
+**Tech Stack:** Flask, Python, Machine Learning, HTML  
+
+• Developed backend services to process user interaction data  
+• Implemented collaborative filtering algorithm  
+• Integrated deep learning models for improved accuracy  
+• Applied data preprocessing and model evaluation techniques  
+
+<br>
+
+<a href="https://github.com/Ganeshtiwari681/Song-recommendation-system">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🔹 OLA Market Business Analysis  
+**Tech Stack:** Power BI, SQL, Python  
+
+• Analyzed 103K+ ride records to extract business insights  
+• Optimized SQL queries reducing execution time by 30%  
+• Designed interactive Power BI dashboards  
+• Translated technical findings into stakeholder-friendly insights  
+
+<br>
+
+<a href="https://github.com/Ganeshtiwari681/OLA-Market-trend-Dashboard">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -130,19 +203,23 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
+
 <a href="mailto:mpgiganeshtiwari0409@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
+
 
 <a href="https://leetcode.com/u/mpgiganeshtiwar2/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+
 <a href="https://www.geeksforgeeks.org/profile/mpgiganesht9ncn">
 <img src="https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="https://github.com/Ganeshtiwari681">
+
+<a href="https:ganeshtiwari681/github.io">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
 </a>
 
