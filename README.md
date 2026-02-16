@@ -219,7 +219,7 @@
 </a>
 
 
-<a href="https:ganeshtiwari681/github.io">
+<a href="https://ganeshtiwari681-github-io.vercel.app/">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
 </a>
 
